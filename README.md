@@ -1,4 +1,4 @@
-# Java SE 8 Programmer Study Guide ☕
+# Java SE 8 Certification Study Guide ☕
 
 Concise, practical notes and runnable examples to prepare for the Oracle Java SE 8 Programmer certification. This guide distills concepts into bite‑sized Markdown overviews with focused Java snippets you can build and run.
 
